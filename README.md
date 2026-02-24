@@ -1,4 +1,4 @@
-# Registration Online/Ofline Form 📝✨
+# Registration Online/Offline Form 📝✨
 
 This project is a simple and interactive registration form built using HTML, CSS, and JavaScript. It includes client-side validation to ensure users fill all required fields before submission.
 
